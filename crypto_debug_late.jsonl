@@ -991,3 +991,8 @@
 {"type": "stagnation", "workflow": "crypto_flash_A", "detail": "最新schedule発火から336分経過(閾値30分)", "last_schedule_at": "2026-10-31T08:42:25Z", "ts_utc": 1793456327}
 {"type": "stagnation", "workflow": "crypto_flash_B", "detail": "最新schedule発火から359分経過(閾値30分)", "last_schedule_at": "2026-10-31T08:18:51Z", "ts_utc": 1793456327}
 {"type": "stagnation", "workflow": "crypto_flash_C", "detail": "最新schedule発火から328分経過(閾値30分)", "last_schedule_at": "2026-10-31T08:50:18Z", "ts_utc": 1793456328}
+{"type": "stagnation", "workflow": "crypto_price_notify", "detail": "最新schedule発火から100分経過(閾値15分)", "last_schedule_at": "2026-10-31T16:59:58Z", "ts_utc": 1793472007}
+{"type": "stagnation", "workflow": "crypto_flash_A", "detail": "最新schedule発火から234分経過(閾値30分)", "last_schedule_at": "2026-10-31T14:46:02Z", "ts_utc": 1793472008}
+{"type": "stagnation", "workflow": "crypto_flash_B", "detail": "最新schedule発火から244分経過(閾値30分)", "last_schedule_at": "2026-10-31T14:35:30Z", "ts_utc": 1793472010}
+{"type": "stagnation", "workflow": "crypto_flash_C", "detail": "最新schedule発火から227分経過(閾値30分)", "last_schedule_at": "2026-10-31T14:52:29Z", "ts_utc": 1793472011}
+{"type": "stagnation", "workflow": "crypto_flash_D", "detail": "最新schedule発火から41分経過(閾値30分)", "last_schedule_at": "2026-10-31T17:58:38Z", "ts_utc": 1793472012}
